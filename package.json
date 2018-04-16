@@ -26,6 +26,6 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "bootstrap": "4.0.0-beta"
+    "bulma": "^0.7.0"
   }
 }
